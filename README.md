@@ -1,15 +1,19 @@
-# Titanic Survival Prediction
+# 🚢 Titanic Survival Prediction
 
-This project is a Streamlit app that predicts whether a passenger survived the Titanic disaster based on passenger features.
+This is a **Streamlit web app** that predicts whether a passenger survived the Titanic disaster based on their features such as age, class, sex, fare, and more — using a machine learning model built with scikit-learn.
 
-## How to run locally
+---
 
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `streamlit run streamlit_app.py`
-4. Upload the Titanic CSV dataset in the app UI
-5. Input passenger details and predict survival!
+## 🔗 Live Demo
 
-## Deployment
+👉 [Click here to try the live app](https://titanic-survival-predictor-mknwibgsbgrezcgxjsfzck.streamlit.app/)
 
-You can deploy this app on [Streamlit Cloud](https://streamlit.io/cloud) by linking your GitHub repository.
+---
+
+## 📦 How to Run Locally
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/your-username/titanic-survival-prediction.git
+   cd titanic-survival-prediction
